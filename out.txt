@@ -1,0 +1,20 @@
+(+)www.digikala.com ==> (+)points.digikalacloud.com.
+(+)mobile.digikala.com ==> (+)points.digikalacloud.com.
+(+)demo.digikala.com ==> (+)DK-dm-33.digikala.com.
+(+)api.digikala.com ==> (+)points.digikalacloud.com.
+(+)search.digikala.com ==> (+)points.digikalacloud.com.
+(+)games.digikala.com ==> (+)points.digikalacloud.com.
+(+)student.digikala.com ==> (+)points.digikalacloud.com.
+(+)link.digikala.com ==> (+)suite9.emarsys.net.
+(+)design.digikala.com ==> (+)points.digikalacloud.com.
+(+)tracker.digikala.com ==> (+)points.digikalacloud.com.
+(+)careers.digikala.com ==> (+)points.digikalacloud.com.
+(+)tech.digikala.com ==> (+)points.digikalacloud.com.
+(+)pr.digikala.com ==> (+)points.digikalacloud.com.
+(+)tracking.digikala.com ==> (+)points.digikalacloud.com.
+(+)students.digikala.com ==> (+)points.digikalacloud.com.
+(+)career.digikala.com ==> (+)points.digikalacloud.com.
+(+)mag.digikala.com ==> (+)points.digikalacloud.com.
+(+)about.digikala.com ==> (+)points.digikalacloud.com.
+
+
